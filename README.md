@@ -1,6 +1,9 @@
 # Carlos Solórzano
-Fullstack developer
+I'm a fullstack developer, interested in building performant apps. I also like low level stuff and optimize anything.
+<br/>
+I love NeoVim, the terminal, and anything that enables me to develop any idea blazingly fast.
 
+#
 
 ### Languages and tools
 
@@ -20,20 +23,19 @@ Fullstack developer
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" />
 
 
-
-
-
-
 <br />
 
 #
 
 ### Stats
-[![Anurag's GitHub stats](https://github-readme-stats-gamma-kohl.vercel.app/api?username=charlieman2700&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-gamma-kohl.vercel.app/api?username=charlieman2700&show_icons=true&theme=calm_pink)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-[![Top Langs](https://github-readme-stats-gamma-kohl.vercel.app/api/top-langs/?username=charlieman2700&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-gamma-kohl.vercel.app/api/top-langs/?username=charlieman2700&layout=compact&show_icons=true&theme=calm_pink)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<h2 align="left">Connect with me:</h2>
+
+#
+
+### Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/carlos-solorzano-cerdas-69797126b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>

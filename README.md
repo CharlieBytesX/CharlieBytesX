@@ -1,4 +1,4 @@
-### Hi there 👋
+# Carlos Solórzano
 
 <!--
 **charlieman2700/charlieman2700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">Connect with me:</h3>
+
+### Languages and tools
+
+<img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<br />
+
+#
+
+### Stats
+[![Anurag's GitHub stats](https://github-readme-stats-gamma-kohl.vercel.app/api?username=charlieman2700&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Top Langs](https://github-readme-stats-gamma-kohl.vercel.app/api/top-langs/?username=charlieman2700&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/carlos-solorzano-cerdas-69797126b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats-gamma-kohl.vercel.app/api?username=charlieman2700)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-gamma-kohl.vercel.app/api/top-langs/?username=charlieman2700&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

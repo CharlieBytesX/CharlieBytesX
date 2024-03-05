@@ -30,7 +30,7 @@ I love NeoVim, the terminal, and anything that enables me to develop any idea **
 #
 
 ### Stats
-[![Anurag's GitHub stats](https://github-readme-stats-gamma-kohl.vercel.app/api?username=charlieman2700&show_icons=true&theme=calm_pink)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-gamma-kohl.vercel.app/api?username=TheSolracBoy&show_icons=true&theme=calm_pink)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![Top Langs](https://github-readme-stats-gamma-kohl.vercel.app/api/top-langs/?username=charlieman2700&layout=compact&show_icons=true&theme=calm_pink)](https://github.com/anuraghazra/github-readme-stats)
 -->

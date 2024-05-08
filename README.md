@@ -1,4 +1,4 @@
-# The Solrac Boy
+# Hi, I'm Carlos Solórzano
 I'm a fullstack developer, interested in building performant apps. I also like low-level stuff and optimizing.
 <br/>
 I love NeoVim, the terminal, and anything that enables me to develop any idea **Blazingly Fast**.
